@@ -17,6 +17,7 @@ print(d1)
 print(d1.keys())
 print(d1.values())
 
+
 print(d1.get('e'))
 print(d1.get('z')) #if it does not exist = NONE
 
