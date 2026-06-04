@@ -1,0 +1,18 @@
+[
+  {
+    "first_name": "Ardi",
+    "last_name": "Hoxha",
+    "age": 30,
+    "salary": [900, 950, 1000],
+    "gender": "male",
+    "department": "IT"
+  },
+  {
+    "first_name": "Sara",
+    "last_name": "Demi",
+    "age": 28,
+    "salary": [1000, 1100, 1200],
+    "gender": "female",
+    "department": "Finance"
+  }
+]

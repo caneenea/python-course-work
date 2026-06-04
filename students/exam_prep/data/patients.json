@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "Arben",
+    "last_name": "Hoxha",
+    "age": 45,
+    "treatments": [80, 85, 90],
+    "gender": "male",
+    "hospital": "Mother Teresa"
+  },
+  {
+    "first_name": "Elira",
+    "last_name": "Dervishi",
+    "age": 38,
+    "treatments": [95, 90, 100],
+    "gender": "female",
+    "hospital": "American Hospital"
+  },
+  {
+    "first_name": "Besim",
+    "last_name": "Kola",
+    "age": 50,
+    "treatments": [70, 75, 80],
+    "gender": "male",
+    "hospital": "Mother Teresa"
+  }
+]
